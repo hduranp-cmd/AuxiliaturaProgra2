@@ -142,7 +142,7 @@ class Biblioteca {
 public class Ej7 {
 
     public static void main(String[] args) {
-        // b. Instanciar 2 bibliotecas
+       
         Biblioteca b1 = new Biblioteca("Biblioteca Central");
         Biblioteca b2 = new Biblioteca("Biblioteca Norte");
 
